@@ -1,4 +1,4 @@
-**БОТ СЛОМАЛСЯ! ПРОБЛЕМА ДАННЫХ ПЕРЕДАЧИ ЧЕРЕЗ FLASK НА NGROK , РАНЕЕ ПОЧТИ ВСЕ РАБОТАЛО, ИЗВИНЯЮСЬ ЧТО ТАК ВЫШЛО**
+# БОТ СЛОМАЛСЯ! ПРОБЛЕМА ДАННЫХ ПЕРЕДАЧИ ЧЕРЕЗ FLASK НА NGROK , РАНЕЕ ПОЧТИ ВСЕ РАБОТАЛО, ИЗВИНЯЮСЬ ЧТО ТАК ВЫШЛО, ПЫТАЛСЯ ЧИНИТЬ ДОЛГОЕ ВРЕМЯ И ВЫГОРЕЛ, СПАСИБО ЗА УЧАСТИЕ
 
 # AW_ZEO - Умный помощник КРУ
 <img src="screenshots/view1.png" alt="w1" style="width: 30%; height: auto;">
@@ -14,6 +14,7 @@ pip install -r requirements.txt
 Настройка окружения:
 
 # Отредактируйте .env файл
+Ngrok Для локальных сетей получение хоста для Flask ( ибо Telegram на локалхост не работает с WEB APP)
 Запуск:
 
 python run
@@ -73,7 +74,8 @@ Modern Web App интерфейс
 cd AW_ZEO
 pip install -r requirements.txt
 
-python run.py
+python runs files
+
 
 
 
