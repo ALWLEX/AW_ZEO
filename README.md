@@ -1,4 +1,6 @@
 # AW_ZEO - Умный помощник КРУ
+<img src="screenshots/view1.png" alt="w1" style="width: 30%; height: auto;">
+<img src="screenshots/view2.png" alt="w2" style="width: 30%; height: auto;">
 
 Telegram бот с Web App интерфейсом для студентов и абитуриентов КРУ им. А. Байтурсынова.
 
@@ -68,4 +70,5 @@ Modern Web App интерфейс
 **Для запуска:**
 cd AW_ZEO
 pip install -r requirements.txt
+
 python run.py
