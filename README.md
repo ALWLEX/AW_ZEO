@@ -17,19 +17,8 @@ pip install -r requirements.txt
 Ngrok Для локальных сетей получение хоста для Flask ( ибо Telegram на локалхост не работает с WEB APP)
 Запуск:
 
-python run
-Структура проекта
-text
-AW_ZEO/
-├── app.py                 # Основной бот
-├── run.py                # Скрипт запуска
-├── config.py             # Конфигурация
-├── requirements.txt      # Зависимости
-├── database/            # Работа с БД
-├── services/            # Бизнес-логика
-├── web_app/             # Web интерфейс
-├── utils/               # Утилиты
-└── data/               # Данные
+python run_*** files
+
 Особенности
 Умный Telegram бот с AI помощником
 
@@ -75,6 +64,7 @@ cd AW_ZEO
 pip install -r requirements.txt
 
 python runs files
+
 
 
 
